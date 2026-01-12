@@ -8,6 +8,10 @@
   affiliation: Mito
   team: active
 
+- name: Angus Hollands
+  handle: "@agoose77"
+  team: active
+
 - name: Paul Ivanov
   handle: "@ivanov"
   team: active
@@ -45,7 +49,7 @@
 - name: Rick Wagner
   handle: "@rpwagner"
   affiliation: UC San Diego
-  team: active
+  team: inactive
 
 - name: Zach Sailer
   handle: "@Zsailer"

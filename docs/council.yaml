@@ -21,11 +21,6 @@
   affiliation: JP Morgan Chase
   team: active
 
-- name: Gabriel Fouasnon
-  handle: "@gabalafou"
-  affiliation: Quansight
-  team: active
-
 - name: Johan Mabille
   handle: "@JohanMabille"
   affiliation: QuantStack
@@ -67,6 +62,11 @@
   handle: "@ibdafna"
   team: inactive
 
+- name: Gabriel Fouasnon
+  handle: "@gabalafou"
+  affiliation: Quansight
+  team: inactive
+
 - name: Isabela Presedo-Floyd
   handle: "@isabela-pf"
   team: inactive
@@ -74,3 +74,4 @@
 - name: Carol Willing
   handle: "@willingc"
   team: inactive
+
